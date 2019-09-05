@@ -1,0 +1,11 @@
+{
+  "name": "docxreport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "docx-reporting": "^2.1.0",
+    "open": "^6.4.0",
+    "word2pdf": "^1.0.7"
+  }
+}
