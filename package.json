@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "carbone": "^1.2.1",
     "docx-reporting": "^2.1.0",
     "open": "^6.4.0",
     "word2pdf": "^1.0.7"
